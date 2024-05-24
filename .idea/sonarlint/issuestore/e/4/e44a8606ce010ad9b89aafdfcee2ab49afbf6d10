@@ -1,0 +1,18 @@
+
+“
+java:S1192 "KDefine a constant instead of duplicating this literal "San Julian" 4 times.(È÷½†ùÿÿÿÿ8°îë´ú1J$0d83fec9-29bc-413a-8b95-38a1dca6a178
+Œ
+java:S1192"IDefine a constant instead of duplicating this literal "Laureles" 4 times.(¦¯…8°îë´ú1J$b9e77df9-a330-41d4-a62c-c002a8e3ffbb
+–
+java:S1192""SDefine a constant instead of duplicating this literal "Portal del Quindio" 4 times.(Ë»Ê¯8±îë´ú1J$4a07e68c-3f4c-42a4-91d2-b6dd51e6a7c2
+
+java:S1192#"HDefine a constant instead of duplicating this literal "Netania" 4 times.(ƒ´·‹ûÿÿÿÿ8±îë´ú1J$86c45127-ff85-42cf-9d2b-7b438ac1979e
+
+java:S1192!"GDefine a constant instead of duplicating this literal "Coinca" 4 times.(¨üÙåøÿÿÿÿ8±îë´ú1J$0fa6ce0c-ff13-4bfb-956d-4e07bb3bb4b0
+r	java:S106"+Replace this use of System.out by a logger.(æé¦Ğûÿÿÿÿ8·îë´ú1J$46237ef1-94a4-49fd-952d-e91650be0388
+r	java:S106"+Replace this use of System.out by a logger.(²ÒÒƒÿÿÿÿÿ8·îë´ú1J$d4e1f1ee-402f-4ec2-8e62-aaf79db3e9f2
+r	java:S106"+Replace this use of System.out by a logger.(©™üÿÿÿÿ8¸îë´ú1J$3a98113a-80aa-4e16-9300-038a5d1e909d
+m	java:S106"+Replace this use of System.out by a logger.(ğ±Û8¸îë´ú1J$4e8aee25-111a-434f-a1f6-8f9d086f1fc7
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÿ¾Õ8¹îë´ú1J$e3f79674-03fc-43d2-b139-152c66590b03
+r	java:S106?"+Replace this use of System.out by a logger.(‡Æ­áùÿÿÿÿ8ºîë´ú1J$a5239b21-75a9-40af-94a5-9f4dda80463b
+s	java:S106"+Replace this use of System.out by a logger.(†Û½Õûÿÿÿÿ8¾îë´ú1J$fd22a54f-a928-4708-8384-66373a014cf0
